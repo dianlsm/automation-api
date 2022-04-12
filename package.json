@@ -1,0 +1,22 @@
+{
+  "name": "belajar_mocha",
+  "version": "1.0.0",
+  "description": "project untuk belajar mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "dian",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "supertest": "^6.2.2"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
